@@ -605,7 +605,7 @@ body {
   margin: 4rem 3rem;
 }
 
-.button-cta a {
+.button-cta button {
   display: inline-block;
 
   padding: calc(0.2vw + 0.8rem) calc(2vw + 0.8rem);
@@ -625,7 +625,7 @@ body {
   cursor: pointer;
 }
 
-.button-cta a:hover {
+.button-cta button:hover {
   transition: all .3s ease;
   filter: brightness(.8);
 }

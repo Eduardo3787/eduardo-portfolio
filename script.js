@@ -58,3 +58,8 @@ window.addEventListener('scroll', () => {
   }
 
 })
+
+function buttonCta(){
+  const curriculo = './public/Currículo atualizado Eduardo  (1).pdf';
+  window.open(curriculo,'_blank')
+}
